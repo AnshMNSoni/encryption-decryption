@@ -51,4 +51,3 @@ while True:
     
     if (y_n == 'no'):
         break
-    
